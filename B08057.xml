@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act against run-awayes, masterlesse men, and those who travels without testimonials. At Edinburgh, the twentie day of August 1640..</title>
+            <title>Laws, etc.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08057</idno>
+            <idno type="STC">STC 21911</idno>
+            <idno type="STC">ESTC S95089</idno>
+            <idno type="EEBO-CITATION">68222770</idno>
+            <idno type="OCLC">ocm 68222770</idno>
+            <idno type="VID">183809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2201:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act against run-awayes, masterlesse men, and those who travels without testimonials. At Edinburgh, the twentie day of August 1640..</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Iames Bryson,,</publisher>
+                  <pubPlace>Printed at Edinburgh, :</pubPlace>
+                  <date>1640..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial.</note>
+                  <note>Requiring deserters from the army in Scotland to be apprehended and imposing penalties on those who failed to enforce that statute; also imposing restrictions on travel in Scotland.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Military deserters --  Scotland --  Early works to 1800.</term>
+               <term>Travel restrictions --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Desertions --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:183809:1"/>
+            <head>ACT AGAINST RVN-AWAYES, Maſterleſſe men, and thoſe who travels without teſtimonials. At <hi>EDINB<g ref="char:V">Ʋ</g>RGH</hi> the twentie day of Auguſt 1640.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords, and others of the <hi>Committie</hi> of the Eſtates of Parliament; conſidering the fearfull prejudice and danger likely to fall out, by the daily disbanding and ſtealing away of a number of Fugitives, who flieth away from their Companies and Colours, and returneth to the Countrey where they lurke and are harboured, and entertained by their Parents, Maſters, and Friends: The danger and preparative whereof may produce fearfull effects, if the ſame bee not timeouſly remeided, and ſuch Fugi<g ref="char:EOLhyphen"/>tives and Run-awayes examplarly puniſhed to the terrour of others, in reſpect whereof; It is hereby ſtatute, enacted, and ordained, That the <hi>Committie</hi> of warre within each Presbyterie and diviſion in this whole Kingdome, with the concourſe of the Shyreffes, Stewarts, and Bailyies of Regalities, and of the Gentle-men, Mi<g ref="char:EOLhyphen"/>niſters, Elders, and Conſtables in each Paroſhin, who ſhall bee oblidged to con<g ref="char:EOLhyphen"/>curre and aſſiſt herein-till; Shall foorth-with upon ſight hereof, cauſe make pre<g ref="char:EOLhyphen"/>ſent and exact ſearch and tryall for all Fugitives and Run-awayes within their bounds and diviſion, who hath either fled and disbanded from this preſent Armie, now marched into <hi>England,</hi> or from the North or South Regiments, or from any other Companie or Gariſon leveyed by warrand from the Eſtates: And ſhall cauſe take and apprehend all the ſaids Fugitives where ever they can be found, and put them in ſure firmance and priſon, either in the head Burrowes of the Shyres, or in ſome other firme and convenient place. And ſike-like, It is hereby ſtatute, that immediatly after the ſaids Fu<g ref="char:EOLhyphen"/>gitives ſhall be ſo apprehended, at leaſt within eight dayes thereafter: The ſaids <hi>Committies</hi> of warre with concourſe of the Magiſtrates of the ſaids Burrowes, or Shyreffes of the Shyre, or Stewarts of Stewartries, or Bailyies of Regalities, ſhall cauſe decimate the ſaids whole Fugitives, and ſhall cauſe hang the tenth man of them: And if there be but one or moe of them within ten: That they cauſe hang one of the ſaid number, albeit there be but one: And if there bee fifteene of them, that two of them be hanged: And ſo forth that one be hanged of every tenth perſons within each Shyre or diviſion; And if they bee under the number of ten, as is above preſcribed, that one of them be hanged, as ſaid is, and that without favour or mercie: And that it bee decided by lot, who of them ſhall bee ſo hanged; And theſe on whom the lot falleth, to die according to the proportion foreſaid, ſhall bee put to execution, and die the death, as is above preſcribed without favour. And as for all the reſt, who ſhall hapen to eſcape by lot, Ordaines them to be all ſent here to <hi>Edinburgh</hi> bound as Fugitives to bee diſpoſed upon, at the pleaſure of the ſaid <hi>Committie</hi> of Eſtates, their intertainment, after they ſhall bee ap<g ref="char:EOLhyphen"/>prehended, and the charges in ſending of them here, to bee upon the expenſes of the publicke, if they bee not able to enter<g ref="char:EOLhyphen"/>taine themſelves. And if any of the Parents, Maſters, Friends, or acquaintance of the ſaids Fugitives, ſhall hereafter recept, harbour, or entertaine, or furniſh any of them, being delated, &amp; proven before the Kirk Seſſion, or <hi>Committie</hi> of war. The ſaids recepters ſhal be puniſhed in their perſons and means, conforme to the former acts made there anent. And notwith<g ref="char:EOLhyphen"/>ſtanding of the premiſſes, if any of the ſaids Fugitives before they bee apprehended in manner foreſaid, ſhall come and offer themſelves, to the <hi>Committie</hi> of warre within their diviſion, or to the Conveener thereof, or to the Miniſters and El<g ref="char:EOLhyphen"/>ders of the Paroſh, or ſome man of qualitie, and crave their paſſe to come here to <hi>Edinburgh,</hi> and offer themſelves to the cenſure of the <hi>Committie</hi> of Eſtates: And ſhall accordingly appeare here with all expedition, that ſuch perſons as ſhall ſo appeare here, and ſubmit themſelves in manner foreſaids, their lives ſhall bee ſaved, and ſuch courſe taken with them, as the ſaid <hi>Committie</hi> of Eſtates ſhall thinke expedient. And ſike-like, this preſent Act anent the ſaids Fugitives to have full force and execution againſt all Fugitives and Run-awayes, who ſhall hereafter disband and flee in time comming from any Companie or Regiment hereafter to bee leavyed in any part of this Kingdome by warrand from the Eſtates or <hi>Committie</hi> thereof. And in like manner, the ſaid <hi>Committie</hi> of Eſtates conſidering that the Countrey is abuſed and burdened with a number of idle and maſterleſſe men, and vagabounds, having no ſettled calling, vocation, nor im<g ref="char:EOLunhyphen"/>ployment, who may prove noyſome to the Countrey, if they bee not repreſſed. Therefore it is ſtatute and ordained, that where ever any idle or maſterleſſe men can bee found, not having a lawfull calling, and conſtant reſidence, and wan<g ref="char:EOLhyphen"/>ting a lawfull teſtimoniall of the Miniſter and Elders of the Paroſh, or ſome Gentle-man of note and reſpect, or Magiſtrates of Burrows where hee dwelleth, that they ſhall bee taken, apprehended, and put in the neareſt priſon, and ſhall remaine therein, till they bee diſpoſed upon at the will of the ſaids <hi>Committies</hi> of warre, where they are taken for the ſervice of the publicke. And further, it is ſtatute and ordained, that no perſon whatſoever, shall preſume to travell from his owne bounds, without a lawfull teſtimoniall in maner foreſaid. And if any man or woman ſhall be found travelling from their owne bounds, wanting a teſtimoniall (except they bee perſons of reſpect and qualitie, not ourly knowne in theſe bounds where they shall travell) It is hereby ſtatute, that they ſhall be impriſoned at the neareſt Jayle or Firmance for the ſpace of eight dayes, and thereafter shall bee carried from Parosh to Parosh by Conſtables, or others who shall be appointed for that effect, till they bee brought to their owne reſidence, where they shall be examplarly punished for their contempt of this ſtatute: Requiring hereby all the <hi>Committies</hi> of war, Shyreffes, Magiſtrates, and others to whom the execution of theſe above-written ſtatutes is incumbent: And to whoſe knowledge the ſame shall come, as they will be anſwereable upon their higheſt paine, that they, and every one of them exactly proſecute and execute the ſame ſtatutes: And for bet<g ref="char:EOLhyphen"/>ter effectuating hereof, that they appoint qualified perſons in each paroshin, for bringing in, taking and apprehending the ſaids Run-awayes, idle and maſterleſſe men, Anent the which whole premiſſes, theſe preſents shall bee unto them, and everie one of them a ſufficient warrand.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Edinburgh, by Iames Bryſon, 1640</p>
+         </div>
+      </back>
+   </text>
+</TEI>
